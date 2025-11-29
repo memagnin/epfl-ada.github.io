@@ -22,8 +22,8 @@ author: Some Person
 navbar-links:
   Team: "aboutme"
   Data Story:
-    - Game: "https://beautifuljekyll.com"
-    - Solution: "https://www.markdowntutorial.com/"
+    - Game: "story/intro.md"
+    - Solution: "story/solution.md"
   Author's home: "https://deanattali.com"
 
 ################
