@@ -20,7 +20,6 @@ author: Team TMFMT
 ###############################################
 
 navbar-links:
-  Team: "team"
   Data Story:
     - Game: "story/intro"
     - Solution: "story/solution"
