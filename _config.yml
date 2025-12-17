@@ -48,15 +48,18 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
-# social-network-links:
-#   github: MartinD-git
 
 team_members:
-  - tCoester
-  - memagnin
-  - FabienDon
-  - MartinD-git
-  - talrtz
+  - name: Timothee
+    github: tCoester
+  - name: Morgane
+    github: memagnin
+  - name: Fabien
+    github: FabienDon
+  - name: Martin
+    github: MartinD-git
+  - name: Tallulah
+    github: talrtz
 
 
 ###########################

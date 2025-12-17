@@ -412,12 +412,15 @@
 {% if site.team_members %}
   {% for member in site.team_members %}
   <li class="list-inline-item">
-    <a href="https://github.com/{{ member }}" title="GitHub: {{ member }}">
+    <a class="team-link" href="https://github.com/{{ member.github }}" title="GitHub: {{ member.github }}">
+      <span class="team-name">{{ member.name }}</span>
+
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fab fa-github fa-stack-1x fa-inverse"></i>
       </span>
-      <span class="sr-only">GitHub: {{ member }}</span>
+
+      <span class="sr-only">GitHub: {{ member.github }}</span>
     </a>
   </li>
   {% endfor %}
