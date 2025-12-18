@@ -15,4 +15,11 @@ By analyzing these two aspects, we want to understand how a player in 2025 would
 
 To better understand what it is like to play wikispeedia on a smaller graph, you have to find your way through our story by navigating the hyperlinks, just like a wikispeedia game!
 
+The goal is to get to the conclusion page. The correct link to click on is about the next step in the analysis. You can either find it from the current analysis e.g "We saw that geography is an important topic" -> solution will be "geography".
+
+To make it easier you can check the story line as a hint:
+>! hint 1 
+>! hint 2
+>! hint 3
+
 You can also directly check the [solution]({{ '/story/solution' | relative_url }})
