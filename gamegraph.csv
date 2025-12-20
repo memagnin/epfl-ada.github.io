@@ -15,6 +15,7 @@ PageRank,Wikipedia graph structure
 PageRank,CC License
 PageRank,PageRank wikipedia
 PageRank,PR References
+Wikipedia graph structure,USA
 Power of the first links,General player behaviour
 Power of the first links,lead section
 Power of the first links,mean and var
@@ -24,4 +25,16 @@ link section,Venn Diagram wikipedia
 mean and median,Power of the first links
 mean and median,Box plots
 mean and median,General player behaviour
-Power of the first links,
+General player behaviour,Lazy players
+General player behaviour,Wikipedia graph structure
+General player behaviour,HITS scores
+General player behaviour,Pearson wikipedia
+General player behaviour,USA
+Lazy players,fast/slow navigation
+Lazy players,fun fact
+Lazy players,Lazy players
+Lazy players,Huge set
+Huge set,fast/slow navigation
+Huge set,General player behaviour
+Huge set,Lazy players
+Lazy players,USA
