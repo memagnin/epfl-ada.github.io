@@ -14,4 +14,6 @@ According to Wikipedia itself :
 Also according to wikipedia : 
 
 > *"A circular definition is a type of definition that uses the term(s) being defined as part of the description or assumes that the term(s) being described are already known. There are several kinds of circular definition, and several ways of characterising the term: pragmatic, lexicographic and linguistic. Circular definitions are related to circular reasoning in that they both involve a self-referential approach."*
+
+
 > — **Wikipedia**, *article : Circular definition*
