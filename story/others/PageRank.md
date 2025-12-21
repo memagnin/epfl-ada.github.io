@@ -1,6 +1,7 @@
 ---
 layout: page
 title: PageRank
+subtitle: "Fun Facts"
 ---
 
 #### Description

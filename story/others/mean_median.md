@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Different Distribution
+subtitle: "Fun Facts"
 ---
 
 In this plot:

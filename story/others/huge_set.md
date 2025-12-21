@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Huge set
+subtitle: "Fun Facts"
 ---
 
 There can be **a lot** of links on a wikipedia page.

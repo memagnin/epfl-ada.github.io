@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fun fact
+subtitle: "Fun Facts"
 mathjax: true
 ---
 
