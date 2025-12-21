@@ -6,7 +6,8 @@ mathjax: true
 
 to include a static image (add in the img folder): ![crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
 
-to include an interactive plot (add the html in the include folder): {% include links_sections.html %}
+to include an interactive plot (add the html in the include folder): 
+{% include links_sections.html %}
 
 to add hyperlinks: [finish]({{ '/story/others/fun_fact' | relative_url }})
 
