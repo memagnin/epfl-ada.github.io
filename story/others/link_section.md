@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Link sections
+subtitle: "Fun Facts"
 ---
 
 To look at where are distributed the links we could make a [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram), but scale it would not be the fanciest.

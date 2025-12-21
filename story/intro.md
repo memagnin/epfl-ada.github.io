@@ -19,8 +19,8 @@ The goal is to get to the conclusion page. The correct link to click on is about
 
 <details markdown="1">
   <summary markdown="span">There will be some hints :)</summary>
-  - if you look at the url and you are in `story/others`, then you got out of the datastory
-  - for references, some links get you out of this website, just head back!
+  - if you are on a page "fun fact", then you got out of the datastory
+  - Some links get you out of this website, just head back!
 </details>
 
 You can also directly check the [solution]({{ '/story/solution' | relative_url }})

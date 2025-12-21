@@ -1,6 +1,7 @@
 ---
 layout: page
 title: HITS score
+subtitle: "Fun Facts"
 ---
 
 From [Wikipedia](https://en.wikipedia.org/wiki/HITS_algorithm), the free encyclopedia
