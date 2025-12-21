@@ -4,7 +4,7 @@ title: "Conclusion"
 mathjax: true
 ---
 
-We explored three dimensions of Wikispeedia navigation: the structure of Wikipedia’s link graph, player navigation behavior, andand how graph size and restrictions affect success.
+We explored three dimensions of Wikispeedia navigation: the structure of Wikipedia’s link graph, player navigation behavior, and how graph size and restrictions affect success.
 
 - **Graph structure:** Links are heavily concentrated at the beginning of articles, especially in the lead, with another cluster near the end, resulting in a highly skewed distribution. Restricting links too aggressively makes navigation infeasible, but the lead section alone retains much of the graph’s connectivity due to redundant links. The network is hierarchical, with geographic articles as authorities and list-like pages as hubs. Full navigability depends on access to many links per article, reflecting strong structural redundancy.
 
