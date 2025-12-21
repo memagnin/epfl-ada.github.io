@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "<span style='font-size: 1.5rem;'>How Would a Wikispeedia Player Navigate the 2025 Version of Wikipedia?</span>"
+title:
+subtitle: "How Would a Wikispeedia Player Navigate the 2025 Version of Wikipedia?"
 css: index
 ---
 
